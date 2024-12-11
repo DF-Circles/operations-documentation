@@ -116,8 +116,6 @@ Follow the steps below to contribute to the repository and open a pull request.
    - Any specific information for reviewers.  
 4. Click **Create pull request**.  
 
-   **Screenshot suggestion**: Add a screenshot of the pull request form, highlighting the title and description fields.
-
    ![Pull Request Form](docs/images/pull-request-form.png)
 
 ---
@@ -148,5 +146,3 @@ Here’s where to add content in the repository:
 By following this guide, you'll ensure a smooth and collaborative contribution process to the DF Circles MkDocs repository.
 
 ---
-
-Let me know if you'd like me to refine any part of this or add more details!
