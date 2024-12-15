@@ -74,7 +74,7 @@ Follow the steps below to contribute to the repository and open a pull request.
 ---
 
 ### Step 1: Fork the Repository  
-1. Navigate to this [repository page](#https://github.com/DF-Circles/operations-documentation) on GitHub.  
+1. Navigate to this [repository page](https://github.com/DF-Circles/operations-documentation) on GitHub.  
 2. Click the **Fork** button at the top-right of the page to create your own copy of the repository.  
    
    ![How to fork a Repository](images/how-to-fork-repo.png)
