@@ -148,5 +148,3 @@ Here’s where to add content in the repository:
 By following this guide, you'll ensure a smooth and collaborative contribution process to the DF Circles MkDocs repository.
 
 ---
-
-Let me know if you'd like me to refine any part of this or add more details!
