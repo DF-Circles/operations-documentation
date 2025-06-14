@@ -1,4 +1,4 @@
-# Welcome to the Documentation Work Group Portal
+# Welcome to the Documentation Work Group Portal.
 
 Welcome to the **Documentation Work Group**! Our mission is to create, maintain, and improve documentation resources for DeepFunding Circles and backend systems. Proper documentation ensures clarity, efficiency, and collaboration across all our initiatives.
 
